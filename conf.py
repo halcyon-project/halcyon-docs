@@ -35,6 +35,7 @@ html_show_sourcelink = False
 html_theme_options = {
         'style_nav_header_background': 'white',
         'prev_next_buttons_location': 'None',
+        'display_version': 'False',
         #'logo': 'halcyon.png',
         #'show_powered_by': 'false',
         #'logo_name': 'false',

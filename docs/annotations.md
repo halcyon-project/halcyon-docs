@@ -1,6 +1,6 @@
 ## Annotations
 
-Halcyon uses [Open Geospatial Consortium (OSC) GeoSPARQL](http://www.geosparql.org/) for it's annotations.  Given it's RDF basis, it's possible to use Turtle, RDF-XML, or JSON-LD for your format.  The latest developements for GeoSPARQL can be seen at their [GitHub repository](https://github.com/opengeospatial/ogc-geosparql). Here is an example of Geo SPARQL in Turtle:
+Halcyon uses [Open Geospatial Consortium (OSC) GeoSPARQL](http://www.geosparql.org/) for it's annotations.  Given it's RDF basis, it's possible to use Turtle, RDF-XML, or JSON-LD for your format.  The latest developements for GeoSPARQL can be seen at their [GitHub repository](https://github.com/opengeospatial/ogc-geosparql). Here is an example of GeoSPARQL in Turtle:
 ```
 @prefix dc:   <http://purl.org/dc/terms/> .
 @prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
