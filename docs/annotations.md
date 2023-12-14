@@ -5,7 +5,7 @@ Halcyon uses [Open Geospatial Consortium (OSC) GeoSPARQL](http://www.geosparql.o
 @prefix dc:   <http://purl.org/dc/terms/> .
 @prefix exif: <http://www.w3.org/2003/12/exif/ns#> .
 @prefix geo:  <http://www.opengis.net/ont/geosparql#> .
-@prefix hal:  <https://www.ebremer.com/halcyon/ns/> .
+@prefix hal:  <https://halcyon.is/ns/> .
 @prefix prov: <http://www.w3.org/ns/prov#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix sno:  <http://snomed.info/id/> .
