@@ -13,6 +13,7 @@ The documentation is currently a work in progress.  Stay tuned for more updates.
 docs/installing
 docs/annotations
 docs/building
+docs/authorization
 docs/about
 ```
 
