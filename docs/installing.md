@@ -2,7 +2,7 @@
 
 ## Windows
 
-[Download Windows 10 and 11 installer](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-0.8.0/Halcyon-0.8.0.msi)
+[Download Windows 10 and 11 installer](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-1.0.0/Halcyon-1.0.0.msi)
 
 Once downloaded, double-click on the installer to start the installation.
 :::{figure} images/install1.png
@@ -67,7 +67,7 @@ You should see the login screen.
 
 ## MacOSX
 
-[Download MacOSX DMG file](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-0.8.0/Halcyon-0.8.0.dmg)
+[Download MacOSX DMG file](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-1.0.0/Halcyon-1.0.0.dmg)
 
 The mac dmg file contains the Halcyon application.  Copy this file to where you want Halcyon to create it's associated files.  From a terminal window, switch to the folder yo created and put Halcyon (the file contained within dmg file.
 ```
@@ -79,7 +79,7 @@ At this point, you will see Halcyon start up messages be displayed.  Once it is 
 
 ## Linux
 ### Ubuntu
-[Download Ubuntu / Debian deb package](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-0.8.0/halcyon_0.8.0_amd64.deb)
+[Download Ubuntu / Debian deb package](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-1.0.0/halcyon_1.0.0_amd64.deb)
 
 You can install this debian package on Ubuntu or Debian Linux using the following command
 
@@ -89,7 +89,7 @@ sudo apt install ./{deb package name}
 
 ### Redhat
 You can install this RPM package with the following command
-[Download RedHat rpm package](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-0.8.0/halcyon-0.8.0-1.x86_64.rpm)
+[Download RedHat rpm package](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-1.0.0/halcyon-1.0.0-1.x86_64.rpm)
 ```
 sudo rpm -i ./{rpm package name}
 ```
@@ -105,7 +105,7 @@ Halcyon
 Halcyon will start to load up and create any files it needs.  You will be able to tailor your installation after the initial startup.
 
 ## Java Jar
-[Download Java Jar version (required JDK21)](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-0.8.0/Halcyon-0.8.0.jar)
+[Download Java Jar version (required JDK21)](https://github.com/halcyon-project/Halcyon/releases/download/halcyon-1.0.0/Halcyon-1.0.0.jar)
 
 Running the java jar version will require a working JDK21 installation, either [OpenJDK](https://openjdk.org/) or [GraalVM](https://www.graalvm.org/)
 
