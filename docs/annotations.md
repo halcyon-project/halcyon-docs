@@ -80,7 +80,7 @@ The feature collection basic metadata is in [Dublin Core](https://www.dublincore
 Expressed as JSON-LD
 ```
 {
-	"@context": "https://halcyon.is/context.json",
+    "@context": "https://halcyon.is/context.json",
     "@type": "FeatureCollection",
     "dc:creator": "http://orcid.org/0000-0003-0223-1059",
     "date": "2023-11-09T19:48:15.406625700Z",
@@ -95,7 +95,7 @@ Expressed as JSON-LD
         "@type": "Activity",
         "used": {
             "@id": "urn:md5:a923c8367e61792f531e65d966d4cb78",
-            "@type": "so:ImageObject",
+            "@type": "ImageObject",
             "height": 82984,
             "width": 112231
         },
