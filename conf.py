@@ -22,8 +22,8 @@ copyright = '2023, Erich Bremer'
 author = 'Erich Bremer'
 
 # The full version, including alpha/beta/rc tags
-release = '0.8.0'
-version = '0.8.0'
+release = '1.1.0'
+version = '1.1.0'
 
 master_doc = 'index'
 html_static_path = ['_static']
