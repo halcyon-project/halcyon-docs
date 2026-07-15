@@ -26,6 +26,9 @@ release = '1.1.0'
 version = '1.1.0'
 
 master_doc = 'index'
+# Canonical site location (GitHub Pages). Used for the <link rel="canonical">
+# tag on every page and any absolute URLs Sphinx needs to emit.
+html_baseurl = 'https://halcyon-project.github.io/halcyon-docs/'
 html_static_path = ['_static']
 html_logo = 'docs/images/halcyon.png'
 html_favicon = 'docs/images/halcyon.ico'
